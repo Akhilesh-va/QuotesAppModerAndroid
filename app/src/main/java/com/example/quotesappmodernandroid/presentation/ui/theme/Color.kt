@@ -1,4 +1,4 @@
-package com.example.quotesappmodernandroid.ui.theme
+package com.example.quotesappmodernandroid.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
